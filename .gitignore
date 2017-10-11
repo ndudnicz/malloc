@@ -1,4 +1,5 @@
 *.so
+*.o
 main.c
 a.out
 libft_malloc_x86_64_Darwin.so.dSYM
