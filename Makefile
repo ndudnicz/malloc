@@ -40,7 +40,7 @@ obj:
 	mkdir -p obj/
 
 clean:
-		/bin/rm -rf $(OBJ)
+		/bin/rm -f $(OBJ)
 
 fclean: clean
 		/bin/rm -f $(NAME) libft_malloc.so
